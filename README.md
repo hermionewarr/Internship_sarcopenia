@@ -1,5 +1,6 @@
 # Internship_sarcopenia
 
+ESTRO poster discussion: https://www.estro.org/Congresses/ESTRO-2021/911/posterdiscussion10-theinterfaceofphysicsandradiobi/3959/automatedsarcopeniaassessmentintheneckandsurvivala
 
 **Locating_C3: Neck Navigator:**
 
